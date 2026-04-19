@@ -1,0 +1,57 @@
+#include <iostream>
+
+int main(){
+    
+  
+//string (object that represents a sequence of text)
+
+std::string name = "Roshan";
+
+
+
+std::cout << name;
+
+
+   
+   return 0;
+}
+
+Roshan
+
+#include <iostream>
+
+int main(){
+    
+    // string (object that represents a sequence of text)
+
+    std::string name = "Roshan";
+    std::string day = "Friday";
+    std::string food = "pizza";
+    std::string address = "123 Fake st.";
+
+    std::cout << "Hello " << name;
+
+    return 0;
+}
+
+Hello Roshan
+
+#include <iostream>
+
+int main(){
+    
+    // string (object that represents a sequence of text)
+
+    std::string name = "Roshan";
+    std::string day = "Friday";
+    std::string food = "pizza";
+    std::string address = "123 Fake st.";
+
+    std::cout <<  name << '\n';
+    
+
+    return 0;
+}
+
+Roshan
+
