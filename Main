@@ -1,0 +1,47 @@
+#include <iostream>
+
+int main(){
+    std::cout <<" I Like coding !";
+    return 0;
+}
+
+I Like coding !
+
+
+#include <iostream>
+
+int main(){
+    std::cout <<" I Like coding !";
+    std::cout << " it's really good!";
+    return 0;
+}
+
+
+ I Like coding ! it's really good!
+
+
+#include <iostream>
+
+int main(){
+    std::cout <<" I Like coding !"<< std::endl;
+    std::cout << " it's really good!" << std::endl;
+    return 0;
+}
+
+I Like coding !
+ it's really good!
+
+
+#include <iostream>
+
+int main(){
+    std::cout <<" I Like coding !"<< '\n';
+    std::cout << " it's really good!" << '\n';
+    return 0;
+}
+
+I Like coding !
+ it's really good!
+
+
+
