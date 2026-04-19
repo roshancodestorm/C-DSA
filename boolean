@@ -1,0 +1,8 @@
+
+
+
+// boolean(true or false )
+
+bool student = false;
+bool power = true ;
+bool forSale = true;
