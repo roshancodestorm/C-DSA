@@ -1,0 +1,36 @@
+#include <iostream>
+
+int main(){
+    
+   int x = 5;
+   int y = 6; 
+   int sum = x + y;
+   
+   std::cout << x << '\n';
+   std::cout << y << '\n';
+   std::cout << sum << '\n';
+   
+   return 0;
+}
+
+5
+6
+11
+
+
+#include <iostream>
+
+int main(){
+    
+   // integer (whole number)
+   int age = 21 ;
+   int year = 2023;
+   int days = 7.5;
+   
+   std::cout << days;
+   
+   return 0;
+}
+
+7
+
