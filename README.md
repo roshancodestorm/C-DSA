@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/roshancodestorm/C-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/roshancodestorm/C-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/roshancodestorm/C-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0040-combination-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
