@@ -14,10 +14,12 @@
 | [0039-combination-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/roshancodestorm/C-DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/roshancodestorm/C-DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +51,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/roshancodestorm/C-DSA/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
