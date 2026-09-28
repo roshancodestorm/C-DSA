@@ -18,6 +18,7 @@
 | [0045-jump-game-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/roshancodestorm/C-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/roshancodestorm/C-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/roshancodestorm/C-DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
