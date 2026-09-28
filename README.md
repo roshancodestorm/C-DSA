@@ -19,6 +19,7 @@
 | [0046-permutations](https://github.com/roshancodestorm/C-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0036-valid-sudoku](https://github.com/roshancodestorm/C-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/roshancodestorm/C-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/roshancodestorm/C-DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -79,8 +81,13 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
