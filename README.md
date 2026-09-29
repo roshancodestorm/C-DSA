@@ -20,6 +20,7 @@
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/roshancodestorm/C-DSA/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,10 +53,12 @@
 | [0040-combination-sum-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/roshancodestorm/C-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/roshancodestorm/C-DSA/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/roshancodestorm/C-DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/roshancodestorm/C-DSA/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
