@@ -23,6 +23,7 @@
 | [0051-n-queens](https://github.com/roshancodestorm/C-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/roshancodestorm/C-DSA/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/roshancodestorm/C-DSA/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/roshancodestorm/C-DSA/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
