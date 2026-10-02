@@ -26,6 +26,7 @@
 | [0055-jump-game](https://github.com/roshancodestorm/C-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/roshancodestorm/C-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/roshancodestorm/C-DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0059-spiral-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0037-sudoku-solver](https://github.com/roshancodestorm/C-DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0059-spiral-matrix-ii) |
 ## Quicksort
 |  |
 | ------- |
