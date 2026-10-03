@@ -30,6 +30,7 @@
 | [0063-unique-paths-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/roshancodestorm/C-DSA/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
