@@ -34,6 +34,7 @@
 | [0073-set-matrix-zeroes](https://github.com/roshancodestorm/C-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0046-permutations](https://github.com/roshancodestorm/C-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/roshancodestorm/C-DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
