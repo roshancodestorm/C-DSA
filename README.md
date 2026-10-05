@@ -33,11 +33,13 @@
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/roshancodestorm/C-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/roshancodestorm/C-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/roshancodestorm/C-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +138,9 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/roshancodestorm/C-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
