@@ -35,6 +35,7 @@
 | [0074-search-a-2d-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0064-minimum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/roshancodestorm/C-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0047-permutations-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/roshancodestorm/C-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,4 +153,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
