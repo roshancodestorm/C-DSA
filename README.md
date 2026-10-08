@@ -41,6 +41,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/roshancodestorm/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/roshancodestorm/C-DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0051-n-queens](https://github.com/roshancodestorm/C-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
