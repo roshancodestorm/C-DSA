@@ -46,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/roshancodestorm/C-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
@@ -107,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0053-maximum-subarray) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshancodestorm/C-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
@@ -196,4 +199,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshancodestorm/C-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
