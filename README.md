@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0053-maximum-subarray) |
@@ -153,6 +154,7 @@
 | [0005-longest-palindromic-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/roshancodestorm/C-DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/roshancodestorm/C-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
