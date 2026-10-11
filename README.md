@@ -123,6 +123,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshancodestorm/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/roshancodestorm/C-DSA/tree/master/0085-maximal-rectangle) |
@@ -161,6 +162,7 @@
 | [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/roshancodestorm/C-DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/roshancodestorm/C-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
