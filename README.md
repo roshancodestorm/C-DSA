@@ -67,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshancodestorm/C-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/roshancodestorm/C-DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/roshancodestorm/C-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/roshancodestorm/C-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/roshancodestorm/C-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/roshancodestorm/C-DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/roshancodestorm/C-DSA/tree/master/0041-first-missing-positive) |
@@ -168,6 +169,7 @@
 | [0020-valid-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roshancodestorm/C-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/roshancodestorm/C-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshancodestorm/C-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/roshancodestorm/C-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Manacher
 |  |
 | ------- |
