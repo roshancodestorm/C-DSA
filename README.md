@@ -119,6 +119,7 @@
 | [0022-generate-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/roshancodestorm/C-DSA/tree/master/0055-jump-game) |
@@ -142,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/roshancodestorm/C-DSA/tree/master/0055-jump-game) |
 ## Sorting
@@ -176,6 +178,7 @@
 | [0032-longest-valid-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/roshancodestorm/C-DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
@@ -234,6 +237,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0044-wildcard-matching) |
 ## Bracket Sequences
 |  |
 | ------- |
