@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/roshancodestorm/C-DSA/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/roshancodestorm/C-DSA/tree/master/0066-plus-one) |
 ## String
@@ -174,6 +175,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/roshancodestorm/C-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/roshancodestorm/C-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/roshancodestorm/C-DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
@@ -185,6 +187,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
