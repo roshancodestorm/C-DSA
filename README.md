@@ -163,6 +163,7 @@
 | [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/roshancodestorm/C-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/roshancodestorm/C-DSA/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0049-group-anagrams](https://github.com/roshancodestorm/C-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/roshancodestorm/C-DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/roshancodestorm/C-DSA/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/roshancodestorm/C-DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
 ## Divide and Conquer
@@ -198,6 +200,7 @@
 | [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/roshancodestorm/C-DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/roshancodestorm/C-DSA/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
@@ -211,6 +214,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/roshancodestorm/C-DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/roshancodestorm/C-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 ## Depth-First Search
