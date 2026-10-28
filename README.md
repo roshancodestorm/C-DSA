@@ -165,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/roshancodestorm/C-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/roshancodestorm/C-DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
@@ -260,6 +261,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0044-wildcard-matching) |
 ## Bracket Sequences
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roshancodestorm/C-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
