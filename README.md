@@ -173,6 +173,7 @@
 | [0029-divide-two-integers](https://github.com/roshancodestorm/C-DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/roshancodestorm/C-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/roshancodestorm/C-DSA/tree/master/0067-add-binary) |
 ## String
@@ -268,6 +269,7 @@
 | [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0060-permutation-sequence) |
 ## Bracket Sequences
 |  |
 | ------- |
