@@ -136,6 +136,7 @@
 | [0085-maximal-rectangle](https://github.com/roshancodestorm/C-DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/roshancodestorm/C-DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/roshancodestorm/C-DSA/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/roshancodestorm/C-DSA/tree/master/0097-interleaving-string) |
 ## Stack
 |  |
@@ -184,6 +185,7 @@
 | [0069-sqrtx](https://github.com/roshancodestorm/C-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/roshancodestorm/C-DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/roshancodestorm/C-DSA/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -257,10 +259,12 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Sliding Window
 |  |
@@ -317,4 +321,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/roshancodestorm/C-DSA/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
