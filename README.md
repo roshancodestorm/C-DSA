@@ -126,6 +126,7 @@
 | [0045-jump-game-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/roshancodestorm/C-DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/roshancodestorm/C-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/roshancodestorm/C-DSA/tree/master/0072-edit-distance) |
@@ -174,6 +175,7 @@
 | [0043-multiply-strings](https://github.com/roshancodestorm/C-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/roshancodestorm/C-DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/roshancodestorm/C-DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/roshancodestorm/C-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/roshancodestorm/C-DSA/tree/master/0067-add-binary) |
 ## String
@@ -296,4 +298,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/roshancodestorm/C-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
