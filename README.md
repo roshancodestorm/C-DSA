@@ -130,6 +130,7 @@
 | [0062-unique-paths](https://github.com/roshancodestorm/C-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/roshancodestorm/C-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/roshancodestorm/C-DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/roshancodestorm/C-DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/roshancodestorm/C-DSA/tree/master/0087-scramble-string) |
@@ -180,6 +181,7 @@
 | [0066-plus-one](https://github.com/roshancodestorm/C-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/roshancodestorm/C-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/roshancodestorm/C-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/roshancodestorm/C-DSA/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -308,4 +310,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/roshancodestorm/C-DSA/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/roshancodestorm/C-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
