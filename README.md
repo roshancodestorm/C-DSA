@@ -107,6 +107,7 @@
 | [0089-gray-code](https://github.com/roshancodestorm/C-DSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/roshancodestorm/C-DSA/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0085-maximal-rectangle](https://github.com/roshancodestorm/C-DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/roshancodestorm/C-DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/roshancodestorm/C-DSA/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/roshancodestorm/C-DSA/tree/master/0097-interleaving-string) |
 ## Stack
@@ -259,11 +261,13 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Sliding Window
@@ -324,5 +328,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
