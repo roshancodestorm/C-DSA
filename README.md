@@ -43,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0073-set-matrix-zeroes](https://github.com/roshancodestorm/C-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -274,6 +277,7 @@
 | [0099-recover-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -284,6 +288,7 @@
 | [0099-recover-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
