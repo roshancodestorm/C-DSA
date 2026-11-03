@@ -224,6 +224,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Simulation
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
 ## Combinatorics
 |  |
 | ------- |
@@ -349,4 +351,16 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
