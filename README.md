@@ -52,6 +52,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshancodestorm/C-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0074-search-a-2d-matrix](https://github.com/roshancodestorm/C-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/roshancodestorm/C-DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/roshancodestorm/C-DSA/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 ## Backtracking
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0098-validate-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
+| [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -376,6 +379,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
+| [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -392,4 +396,5 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
