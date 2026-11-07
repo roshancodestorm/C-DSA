@@ -57,6 +57,7 @@
 | [0135-candy](https://github.com/roshancodestorm/C-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/roshancodestorm/C-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshancodestorm/C-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshancodestorm/C-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +250,7 @@
 | [0091-decode-ways](https://github.com/roshancodestorm/C-DSA/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/roshancodestorm/C-DSA/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/roshancodestorm/C-DSA/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -375,6 +379,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/roshancodestorm/C-DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -405,4 +410,12 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
