@@ -58,6 +58,7 @@
 | [0136-single-number](https://github.com/roshancodestorm/C-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/roshancodestorm/C-DSA/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshancodestorm/C-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -251,6 +255,7 @@
 | [0093-restore-ip-addresses](https://github.com/roshancodestorm/C-DSA/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/roshancodestorm/C-DSA/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -380,6 +385,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/roshancodestorm/C-DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -414,6 +420,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
