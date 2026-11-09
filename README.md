@@ -60,6 +60,7 @@
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/roshancodestorm/C-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/roshancodestorm/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/roshancodestorm/C-DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/roshancodestorm/C-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0089-gray-code](https://github.com/roshancodestorm/C-DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/roshancodestorm/C-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
