@@ -61,6 +61,7 @@
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshancodestorm/C-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshancodestorm/C-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
