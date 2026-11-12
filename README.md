@@ -64,6 +64,7 @@
 | [0152-maximum-product-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/roshancodestorm/C-DSA/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/roshancodestorm/C-DSA/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
