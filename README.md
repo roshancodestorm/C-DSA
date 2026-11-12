@@ -65,6 +65,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/roshancodestorm/C-DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/roshancodestorm/C-DSA/tree/master/0164-maximum-gap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [0056-merge-intervals](https://github.com/roshancodestorm/C-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/roshancodestorm/C-DSA/tree/master/0164-maximum-gap) |
 ## Math
 |  |
 | ------- |
@@ -451,4 +453,16 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/roshancodestorm/C-DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/roshancodestorm/C-DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/roshancodestorm/C-DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
