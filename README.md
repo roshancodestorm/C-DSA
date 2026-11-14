@@ -71,6 +71,7 @@
 | [0174-dungeon-game](https://github.com/roshancodestorm/C-DSA/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/roshancodestorm/C-DSA/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/roshancodestorm/C-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/roshancodestorm/C-DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshancodestorm/C-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/roshancodestorm/C-DSA/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [0096-unique-binary-search-trees](https://github.com/roshancodestorm/C-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshancodestorm/C-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/roshancodestorm/C-DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
