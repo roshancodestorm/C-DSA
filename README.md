@@ -116,6 +116,7 @@
 | [0076-minimum-window-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
@@ -155,6 +156,7 @@
 | [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/roshancodestorm/C-DSA/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Algorithm X
 |  |
@@ -295,6 +297,7 @@
 | [0097-interleaving-string](https://github.com/roshancodestorm/C-DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/roshancodestorm/C-DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/roshancodestorm/C-DSA/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/roshancodestorm/C-DSA/tree/master/0179-largest-number) |
@@ -442,6 +445,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
+| [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/roshancodestorm/C-DSA/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
@@ -503,4 +507,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roshancodestorm/C-DSA/tree/master/0169-majority-element) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
