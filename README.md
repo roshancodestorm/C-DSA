@@ -84,6 +84,7 @@
 | [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/roshancodestorm/C-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshancodestorm/C-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/roshancodestorm/C-DSA/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -293,6 +294,7 @@
 | [0093-restore-ip-addresses](https://github.com/roshancodestorm/C-DSA/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/roshancodestorm/C-DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/roshancodestorm/C-DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/roshancodestorm/C-DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/roshancodestorm/C-DSA/tree/master/0179-largest-number) |
