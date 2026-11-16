@@ -117,6 +117,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
@@ -298,6 +299,7 @@
 | [0115-distinct-subsequences](https://github.com/roshancodestorm/C-DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/roshancodestorm/C-DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/roshancodestorm/C-DSA/tree/master/0179-largest-number) |
@@ -446,6 +448,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/roshancodestorm/C-DSA/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
@@ -511,4 +514,5 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
