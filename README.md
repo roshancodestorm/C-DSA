@@ -158,6 +158,7 @@
 | [0093-restore-ip-addresses](https://github.com/roshancodestorm/C-DSA/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/roshancodestorm/C-DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 ## Algorithm X
 |  |
@@ -198,6 +199,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshancodestorm/C-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshancodestorm/C-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/roshancodestorm/C-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/roshancodestorm/C-DSA/tree/master/0152-maximum-product-subarray) |
@@ -300,6 +302,7 @@
 | [0125-valid-palindrome](https://github.com/roshancodestorm/C-DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/roshancodestorm/C-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/roshancodestorm/C-DSA/tree/master/0179-largest-number) |
