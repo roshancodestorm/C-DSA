@@ -126,6 +126,7 @@
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/roshancodestorm/C-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/roshancodestorm/C-DSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [0168-excel-sheet-column-title](https://github.com/roshancodestorm/C-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/roshancodestorm/C-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/roshancodestorm/C-DSA/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 | [0090-subsets-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/roshancodestorm/C-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -399,6 +402,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshancodestorm/C-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/roshancodestorm/C-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
 ## Manacher
 |  |
 | ------- |
@@ -424,6 +428,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roshancodestorm/C-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -432,6 +437,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roshancodestorm/C-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -531,4 +537,12 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
