@@ -122,6 +122,7 @@
 | [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/roshancodestorm/C-DSA/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/roshancodestorm/C-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
@@ -445,6 +446,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/roshancodestorm/C-DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Combinatorics
 |  |
 | ------- |
