@@ -86,6 +86,7 @@
 | [0088-merge-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/roshancodestorm/C-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/roshancodestorm/C-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshancodestorm/C-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -127,6 +128,7 @@
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/roshancodestorm/C-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/roshancodestorm/C-DSA/tree/master/0169-majority-element) |
@@ -450,6 +452,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/roshancodestorm/C-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -561,4 +564,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
