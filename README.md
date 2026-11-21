@@ -129,6 +129,7 @@
 | [0140-word-break-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/roshancodestorm/C-DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/roshancodestorm/C-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/roshancodestorm/C-DSA/tree/master/0169-majority-element) |
@@ -453,6 +454,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/roshancodestorm/C-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/roshancodestorm/C-DSA/tree/master/0146-lru-cache) |
 ## Combinatorics
 |  |
 | ------- |
@@ -565,4 +567,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/roshancodestorm/C-DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/roshancodestorm/C-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
