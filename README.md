@@ -88,6 +88,7 @@
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/roshancodestorm/C-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshancodestorm/C-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/roshancodestorm/C-DSA/tree/master/0189-rotate-array) |
@@ -131,6 +132,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/roshancodestorm/C-DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/roshancodestorm/C-DSA/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/roshancodestorm/C-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/roshancodestorm/C-DSA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
@@ -455,6 +457,7 @@
 | [0141-linked-list-cycle](https://github.com/roshancodestorm/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/roshancodestorm/C-DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Combinatorics
 |  |
 | ------- |
