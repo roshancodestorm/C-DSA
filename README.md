@@ -212,6 +212,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshancodestorm/C-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshancodestorm/C-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/roshancodestorm/C-DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/roshancodestorm/C-DSA/tree/master/0139-word-break) |
@@ -376,6 +377,7 @@
 | [0098-validate-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/roshancodestorm/C-DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/roshancodestorm/C-DSA/tree/master/0200-number-of-islands) |
@@ -395,6 +397,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,6 +410,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -579,4 +583,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/roshancodestorm/C-DSA/tree/master/0146-lru-cache) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
