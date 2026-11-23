@@ -384,6 +384,7 @@
 | [0101-symmetric-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/roshancodestorm/C-DSA/tree/master/0133-clone-graph) |
@@ -407,6 +408,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
@@ -423,6 +425,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
 |  |
@@ -506,6 +509,7 @@
 | [0100-same-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/roshancodestorm/C-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
