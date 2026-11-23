@@ -1,4 +1,23 @@
- C++ 
+# 🚀 C-DSA | Data Structures & Algorithms in C++
+
+Welcome to my C-DSA repository!
+
+This repository contains my journey of learning and mastering Data Structures and Algorithms using C++. It includes 200+ LeetCode problem solutions organized by problem number and algorithmic topics.
+
+**🎯 Goals**
+- Strengthen problem-solving skills.
+- Master DSA concepts using C++.
+- Practice LeetCode problems consistently.
+- Prepare for technical interviews and software engineering opportunities.
+
+**💻 Language:** C++
+
+**📚 Platform:** LeetCode
+
+
+Keep Learning, Keep Coding, Keep Growing! 🚀
+
+**Maintained by:** Roshan Kannaujiya
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
