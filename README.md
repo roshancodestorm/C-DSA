@@ -666,4 +666,8 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/roshancodestorm/C-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
