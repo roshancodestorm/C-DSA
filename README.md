@@ -253,6 +253,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0085-maximal-rectangle](https://github.com/roshancodestorm/C-DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshancodestorm/C-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshancodestorm/C-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -415,6 +416,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0129-sum-root-to-leaf-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/roshancodestorm/C-DSA/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/roshancodestorm/C-DSA/tree/master/0200-number-of-islands) |
 ## Range Minimum/Maximum Query
 |  |
@@ -443,6 +445,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -466,6 +469,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshancodestorm/C-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
