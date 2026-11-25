@@ -419,6 +419,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0133-clone-graph](https://github.com/roshancodestorm/C-DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/roshancodestorm/C-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/roshancodestorm/C-DSA/tree/master/0200-number-of-islands) |
 ## Range Minimum/Maximum Query
 |  |
@@ -449,6 +450,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0129-sum-root-to-leaf-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/roshancodestorm/C-DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -474,6 +476,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0129-sum-root-to-leaf-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/roshancodestorm/C-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/roshancodestorm/C-DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Sliding Window
 |  |
 | ------- |
@@ -567,6 +570,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0127-word-ladder](https://github.com/roshancodestorm/C-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/roshancodestorm/C-DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/roshancodestorm/C-DSA/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/roshancodestorm/C-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/roshancodestorm/C-DSA/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
 |  |
