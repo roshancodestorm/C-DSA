@@ -101,6 +101,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roshancodestorm/C-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/roshancodestorm/C-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/roshancodestorm/C-DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/roshancodestorm/C-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roshancodestorm/C-DSA/tree/master/0088-merge-sorted-array) |
@@ -532,6 +533,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/roshancodestorm/C-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/roshancodestorm/C-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/roshancodestorm/C-DSA/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshancodestorm/C-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/roshancodestorm/C-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
