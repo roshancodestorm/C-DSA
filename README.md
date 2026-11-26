@@ -373,6 +373,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0148-sort-list](https://github.com/roshancodestorm/C-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/roshancodestorm/C-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/roshancodestorm/C-DSA/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/roshancodestorm/C-DSA/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -402,6 +403,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0137-single-number-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/roshancodestorm/C-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/roshancodestorm/C-DSA/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/roshancodestorm/C-DSA/tree/master/0191-number-of-1-bits) |
 ## Depth-First Search
 |  |
 | ------- |
