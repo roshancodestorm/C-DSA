@@ -495,6 +495,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/roshancodestorm/C-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/roshancodestorm/C-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/roshancodestorm/C-DSA/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/roshancodestorm/C-DSA/tree/master/0060-permutation-sequence) |
 ## Bracket Sequences
@@ -528,6 +529,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roshancodestorm/C-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/roshancodestorm/C-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/roshancodestorm/C-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshancodestorm/C-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/roshancodestorm/C-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/roshancodestorm/C-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
