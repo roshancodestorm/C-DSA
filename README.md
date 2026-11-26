@@ -97,6 +97,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/roshancodestorm/C-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/roshancodestorm/C-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roshancodestorm/C-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/roshancodestorm/C-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/roshancodestorm/C-DSA/tree/master/0042-trapping-rain-water) |
@@ -523,6 +524,7 @@ Keep Learning, Keep Coding, Keep Growing! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/roshancodestorm/C-DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/roshancodestorm/C-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/roshancodestorm/C-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshancodestorm/C-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/roshancodestorm/C-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
